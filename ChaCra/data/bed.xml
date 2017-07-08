@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<design author="Gen Nishida" version="1.0" date="7/7/2017">
+	<pose>
+		<body>
+			<point x="-1" y="-0.5"/>
+			<point x="1" y="-0.5"/>
+			<point x="1" y="0.5"/>
+			<point x="-1" y="0.5"/>
+		</body>
+		<body>
+			<point x="1.5" y="-1.5"/>
+			<point x="2.5" y="-1.5"/>
+			<point x="2.5" y="0.5"/>
+			<point x="1.5" y="0.5"/>
+		</body>
+	</pose>
+	<pose>
+		<body>
+			<point x="-1" y="-0.5"/>
+			<point x="1" y="-0.5"/>
+			<point x="1" y="0.5"/>
+			<point x="-1" y="0.5"/>
+		</body>
+		<body>
+			<point x="1" y="1"/>
+			<point x="1" y="2"/>
+			<point x="-1" y="2"/>
+			<point x="-1" y="1"/>
+		</body>
+	</pose>
+</design>
